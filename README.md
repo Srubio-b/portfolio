@@ -1,7 +1,7 @@
 
 ## Proyectos
 
--[Landing Page de tipo Portafolio](https://Srubio-b.github.io/portfolio)
+-[Landing Page de tipo Portafolio](https://Srubio-b.github.io/portfolio/)
 
 # Getting Started with Create React App
 
