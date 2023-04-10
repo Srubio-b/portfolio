@@ -1,8 +1,3 @@
-
-## Proyectos
-
--[Landing Page de tipo Portafolio](https://Srubio-b.github.io/portfolio/)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
