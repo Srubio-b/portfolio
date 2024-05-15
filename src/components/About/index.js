@@ -44,6 +44,9 @@ const About = () => {
                     buena herramienta para la divulgacion del 
                     conocimiento y su apropiación socialll.
                 </p>
+                <p>
+                    Si debo describirme en una palabra, se podría decir "compromiso"
+                </p>
             
             </div>
 
