@@ -42,13 +42,9 @@ const About = () => {
                     Tengo una gran pasión por el desarrollo web y estoy 
                     convencido de que una cominicación asertiva es 
                     buena herramienta para la divulgacion del 
-                    conocimiento y su apropiación social.
+                    conocimiento y su apropiación socialll.
                 </p>
-                <p>
-                    Si necesitas que me describa en una oracón,
-                    podría decir que soy alguien familiar, dedicado, comprometido,
-                    y con una gran inquietud intelectual.
-                </p>
+            
             </div>
 
             <div className='stage-cube-cont'>
